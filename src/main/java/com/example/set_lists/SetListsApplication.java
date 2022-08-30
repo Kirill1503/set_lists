@@ -8,5 +8,4 @@ public class SetListsApplication {
     public static void main(String[] args) {
         SpringApplication.run(SetListsApplication.class, args);
     }
-
 }
